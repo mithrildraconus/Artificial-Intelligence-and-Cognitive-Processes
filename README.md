@@ -1,5 +1,5 @@
-## Artificial-Intelligence-and-Cognitive-Processes
-# Master's degree capstone project
+# Artificial-Intelligence-and-Cognitive-Processes
+## Master's degree capstone project
 
 Using the exceptional psychological and technical engine which is chess, this project attempts to approach the development of artificial intelligence from a different angle – instead of using current machine learning techniques for creating an application that can repeatedly cycle through a task in order to build an understanding of the data and problem to consistently increase its accuracy, this project attempts to produce an application that is patterned after the mindset of a particular chess champion in order to imitate that individual's choices of chess movements.
 
